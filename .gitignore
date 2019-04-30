@@ -1,0 +1,10 @@
+.DS_Store
+/target
+.idea
+*.iml
+
+# 在模板中保留idea的相关配置
+# 新的项目直接把下面这段话删除就行了
+!.idea
+!*.iml
+
