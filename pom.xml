@@ -5,7 +5,7 @@
 
   <name>SpringMVCTemplate</name>
   <groupId>com.github.fish56</groupId>
-  <artifactId>SpringMVCTemplate</artifactId>
+  <artifactId>TemplateSSM</artifactId>
   <version>1.0</version>
 
   <properties>

@@ -28,7 +28,7 @@
             <property name="immutable" value="true"/>
 
             <!-- 给Model添加一个父类 -->
-            <property name="rootClass" value="com.foo.louis.Hello"/>
+            <!--<property name="rootClass" value="com.foo.louis.Hello"/>-->
 
             <!-- 是否对类CHAR类型的列的数据进行trim操作 -->
             <property name="trimStrings" value="true"/>
